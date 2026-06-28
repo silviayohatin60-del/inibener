@@ -1,0 +1,6 @@
+{
+  "name": "SD Xaverius 2 Jambi Bookstore",
+  "description": "Sistem pemesanan buku mandiri dan manajemen kasir koperasi SD Xaverius 2 Jambi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,50 @@
+{
+  "books": [
+    { "kode": "B-W0101", "nama": "Pendidikan Pancasila Kelas 1 (Kurikulum Merdeka)", "kategori": "Wajib", "kelas": "1", "harga": 75000, "stok": 60 },
+    { "kode": "B-W0102", "nama": "Matematika SD Kelas 1", "kategori": "Wajib", "kelas": "1", "harga": 82000, "stok": 55 },
+    { "kode": "B-W0103", "nama": "Bahasa Indonesia - Aku Bisa! Kelas 1", "kategori": "Wajib", "kelas": "1", "harga": 68000, "stok": 70 },
+    { "kode": "B-W0104", "nama": "Pendidikan Agama Katolik & Budi Pekerti Kelas 1", "kategori": "Wajib", "kelas": "1", "harga": 60000, "stok": 45 },
+    { "kode": "B-P0101", "nama": "My Next Words Kelas 1 - English for Primary", "kategori": "Pendamping", "kelas": "1", "harga": 55000, "stok": 50 },
+    { "kode": "B-W0201", "nama": "Pendidikan Pancasila Kelas 2", "kategori": "Wajib", "kelas": "2", "harga": 78000, "stok": 50 },
+    { "kode": "B-W0202", "nama": "Matematika SD Kelas 2", "kategori": "Wajib", "kelas": "2", "harga": 85000, "stok": 48 },
+    { "kode": "B-W0203", "nama": "Bahasa Indonesia - Kawan Seiring Kelas 2", "kategori": "Wajib", "kelas": "2", "harga": 70000, "stok": 65 },
+    { "kode": "B-W0204", "nama": "Pendidikan Agama Katolik & Budi Pekerti Kelas 2", "kategori": "Wajib", "kelas": "2", "harga": 62000, "stok": 40 },
+    { "kode": "B-P0201", "nama": "My Next Words Kelas 2", "kategori": "Pendamping", "kelas": "2", "harga": 55000, "stok": 45 },
+    { "kode": "B-W0301", "nama": "Pendidikan Pancasila Kelas 3", "kategori": "Wajib", "kelas": "3", "harga": 80000, "stok": 52 },
+    { "kode": "B-W0302", "nama": "Matematika SD Kelas 3", "kategori": "Wajib", "kelas": "3", "harga": 88000, "stok": 50 },
+    { "kode": "B-W0303", "nama": "Bahasa Indonesia Kelas 3", "kategori": "Wajib", "kelas": "3", "harga": 72000, "stok": 58 },
+    { "kode": "B-W0304", "nama": "Pendidikan Agama Katolik & Budi Pekerti Kelas 3", "kategori": "Wajib", "kelas": "3", "harga": 65000, "stok": 42 },
+    { "kode": "B-P0301", "nama": "My Next Words Kelas 3", "kategori": "Pendamping", "kelas": "3", "harga": 58000, "stok": 40 },
+    { "kode": "B-W0401", "nama": "Pendidikan Pancasila Kelas 4", "kategori": "Wajib", "kelas": "4", "harga": 85000, "stok": 48 },
+    { "kode": "B-W0402", "nama": "Matematika Volume 1 Kelas 4", "kategori": "Wajib", "kelas": "4", "harga": 90000, "stok": 40 },
+    { "kode": "B-W0403", "nama": "Bahasa Indonesia Kelas 4", "kategori": "Wajib", "kelas": "4", "harga": 75000, "stok": 55 },
+    { "kode": "B-W0404", "nama": "Pendidikan Agama Katolik & Budi Pekerti Kelas 4", "kategori": "Wajib", "kelas": "4", "harga": 68000, "stok": 35 },
+    { "kode": "B-U0401", "nama": "Science Primary 4 - Bilingual Edition", "kategori": "Penunjang", "kelas": "4", "harga": 120000, "stok": 25 },
+    { "kode": "B-W0501", "nama": "Pendidikan Pancasila Kelas 5", "kategori": "Wajib", "kelas": "5", "harga": 88000, "stok": 45 },
+    { "kode": "B-W0502", "nama": "Matematika Volume 1 Kelas 5", "kategori": "Wajib", "kelas": "5", "harga": 92000, "stok": 42 },
+    { "kode": "B-W0503", "nama": "Bahasa Indonesia Kelas 5", "kategori": "Wajib", "kelas": "5", "harga": 78000, "stok": 50 },
+    { "kode": "B-W0504", "nama": "Pendidikan Agama Katolik & Budi Pekerti Kelas 5", "kategori": "Wajib", "kelas": "5", "harga": 70000, "stok": 35 },
+    { "kode": "B-P0501", "nama": "English Focus - Workbook Kelas 5", "kategori": "Pendamping", "kelas": "5", "harga": 95000, "stok": 30 },
+    { "kode": "B-W0601", "nama": "Pendidikan Pancasila Kelas 6", "kategori": "Wajib", "kelas": "6", "harga": 90000, "stok": 40 },
+    { "kode": "B-W0602", "nama": "Matematika Volume 1 Kelas 6", "kategori": "Wajib", "kelas": "6", "harga": 95000, "stok": 40 },
+    { "kode": "B-W0603", "nama": "Bahasa Indonesia Kelas 6", "kategori": "Wajib", "kelas": "6", "harga": 80000, "stok": 45 },
+    { "kode": "B-W0604", "nama": "Pendidikan Agama Katolik & Budi Pekerti Kelas 6", "kategori": "Wajib", "kelas": "6", "harga": 72000, "stok": 35 },
+    { "kode": "B-U0601", "nama": "Ringkasan Materi US SD/MI Xaverius", "kategori": "Penunjang", "kelas": "6", "harga": 110000, "stok": 40 }
+  ],
+  "orders": [],
+  "orderDetails": [],
+  "transactions": [],
+  "admins": [
+    { "user": "admin", "pass": "admin123", "nama": "Yuliana Kristina Pogang, S.Pd." },
+    { "user": "tu", "pass": "tu123", "nama": "Yustinus Andhi Lesmana" }
+  ],
+  "students": [],
+  "settings": {
+    "NamaSekolah": "SD Xaverius 2 Jambi",
+    "Alamat": "Jl. Untung Surapati No. 27 Kec. Jelutung Kel. Jelutung Kota Jambi",
+    "Telepon": "0741 40491",
+    "TahunPelajaran": "2026/2027",
+    "BidangKurikulum": "Yuliana Maya Safitri, S.Pd",
+    "Bendahara": "Yuliana Kristina Pogang, S.Pd"
+  }
+}
